@@ -1,0 +1,14 @@
+.footer{
+  width: 100%;
+  position: relative;
+  float: left;
+  bottom: 0;
+  background-color: black;
+}
+.copy p{
+  text-align: center;
+  font-size: 1em;
+  font-weight:400;
+  color: white; 
+  padding: 10px;
+}
